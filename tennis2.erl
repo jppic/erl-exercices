@@ -1,3 +1,4 @@
+% Petit commentaire - JPP essai echange entre deux process
 -module(tennis2).
 -export([startpartie/0,
 finpartie/0,
